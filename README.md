@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**abhinayy0/abhinayy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![@abhinayy0's Holopin board](https://holopin.io/api/user/board?user=abhinayy0)](https://holopin.io/@abhinayy0)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning golang
+- 👯 I’m looking to collaborate on python projects.
+- 💬 Ask me about python, django.
+- 📫 Reach me on :  
+<p align="center">
+ <a href="https://linkedin.com/in/abhinayy0" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
