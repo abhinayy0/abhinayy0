@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![@abhinayy0's Holopin board](https://holopin.io/api/user/board?user=abhinayy0)](https://holopin.io/@abhinayy0)
+[![@abhinayy0's Holopin board](https://holopin.me/abhinayy0)](https://holopin.io/@abhinayy0)
 
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on python projects.
